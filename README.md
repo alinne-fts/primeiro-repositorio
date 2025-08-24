@@ -1,2 +1,4 @@
 # primeiro-repositorio
-meu primeiro repositorio no curos em video
+Primeiro repositório do curso em video de Git e GitHub
+
+Repositorio criado durante a aula
